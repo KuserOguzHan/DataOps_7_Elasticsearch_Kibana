@@ -33,6 +33,7 @@ http://localhost:5601/app/home#/
 
 ### 2. Start
 
+- Look at the Elasticsearch.ipynb
 
 
 
